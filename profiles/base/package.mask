@@ -1,0 +1,2 @@
+chromeos-base/device-appid::amd64-openjema
+net-wireless/rtl8821ce-driver::openjema-drivers
